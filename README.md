@@ -48,7 +48,13 @@ The model was used to calculate predicted tip values and compare them with actua
 - Comparative analysis by gender and time
 
 ---
+
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
+![Dashboard 3](dashboard3.png)
+![Dashboard 4](dashboard4.png)
+![Dashboard 5](dashboard5.png)
+
 This project demonstrates my ability to combine data analysis, visualization, and predictive modeling in Excel to generate actionable business insights.
